@@ -21,4 +21,4 @@
 <code>$ python manage.py runserver</code> <br>
 
 # Live Example
-[Portfolio](https://vaibhavportfolio.herokuapp.com)
+[Portfolio](https://rushabh-solanki.herokuapp.com/)
