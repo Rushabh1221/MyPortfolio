@@ -1,5 +1,5 @@
 # personal-portfolio
- A Django based personal portfolio website.
+ A Simple Django based personal portfolio website.
 
 # Requirements (that must be installed in your system)
 1. Git 
